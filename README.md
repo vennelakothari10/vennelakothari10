@@ -59,13 +59,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vennelakothari10&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=1e1e1e&title_color=569cd6&text_color=d4d4d4&icon_color=4ec9b0&border_color=3c3c3c" alt="Vennela's GitHub Stats"/>
-</p>
-
----
 
 ### 📫 Contact:
 
